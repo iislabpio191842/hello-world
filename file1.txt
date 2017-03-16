@@ -1,0 +1,4 @@
+Wprowadzam zmiany do pliku
+zeby sprawdzic jak dziala 
+commit
+
